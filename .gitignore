@@ -1,0 +1,8 @@
+# ide files
+.vscode/
+
+#others
+build/
+
+# Git files
+.git/
