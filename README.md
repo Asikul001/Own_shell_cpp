@@ -19,3 +19,28 @@
 - [x] exit → Exit the shell
 - [x] history → Show command history
 - [x] clear → Clear the terminal screen
+- [x] ls -l
+- [x] cat file name
+- [x] echo "linux" | wc
+- [x] execute any program (ex.nvim.)
+- [x] auto complete
+- [x] also store error into file
+- [x] Buildin command Completion
+- [x] multicommand pipeline
+- [x] command Navigation
+
+- [] path autocompletion
+- [] alias
+- [] script execution
+- also there is so many linux command that is not support i try to update as soon as possible.
+
+## ⚡ Execution
+
+
+## 📬 Feedback & Suggestions
+
+This project is part of my learning journey in C++ and systems programming.
+If you have ideas or feedback to help me improve, feel free to email me:
+- 📧 bongsquad9083@gmail.com
+
+Thank You
