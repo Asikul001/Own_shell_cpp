@@ -16,7 +16,7 @@
 ## 📖 Available Commands
 |Accept|command|Description|
 |------|---------|------|
-|[x] |cd  |Change current working directory|
+|[ ] |cd  |Change current working directory|
 |[x] |pwd |Print current working directory|
 |[x]| exit | Exit the shell|
 |[x] |history | Show command history|
