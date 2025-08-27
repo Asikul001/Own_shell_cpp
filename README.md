@@ -24,10 +24,10 @@
 |auto complete|also store error into file|Buildin command Completion|
 |multicommand pipeline|command Navigation||
 
+- also there is so many linux command that is not support i try to update as soon as possible.
 - [ ] path autocompletion
 - [ ] alias
 - [ ] script execution
-- also there is so many linux command that is not support i try to update as soon as possible.
 
 ## ⚡ Execution
 
