@@ -14,13 +14,15 @@
 - ❌ Till now Not supported: Windows, macOS 
 
 ## 📖 Available Commands
-- [x] cd <dir> → Change current working directory
-- [x] pwd → Print current working directory
-- [x] exit → Exit the shell
-- [x] history → Show command history
-- [x] clear → Clear the terminal screen
+|Accept|command|Description|
+|------|---------|------|
+|[x] |cd  |Change current working directory|
+|[x] |pwd |Print current working directory|
+|[x]| exit | Exit the shell|
+|[x] |history | Show command history|
+|[x] |clear | Clear the terminal screen|
 - [x] ls -l
-- [x] cat file name
+- [x] cat file name||
 - [x] echo "linux" | wc
 - [x] execute any program (ex.nvim.)
 - [x] auto complete
@@ -29,9 +31,9 @@
 - [x] multicommand pipeline
 - [x] command Navigation
 
-- [] path autocompletion
-- [] alias
-- [] script execution
+- [ ] path autocompletion
+- [ ] alias
+- [ ] script execution
 - also there is so many linux command that is not support i try to update as soon as possible.
 
 ## ⚡ Execution
