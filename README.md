@@ -14,22 +14,15 @@
 - ❌ Till now Not supported: Windows, macOS 
 
 ## 📖 Available Commands
-|Accept|command|Description|
-|------|---------|------|
-|- [ ] |cd  |Change current working directory|
-|[x] |pwd |Print current working directory|
-|[x]| exit | Exit the shell|
-|[x] |history | Show command history|
-|[x] |clear | Clear the terminal screen|
-- [x] ls -l
-- [x] cat file name||
-- [x] echo "linux" | wc
-- [x] execute any program (ex.nvim.)
-- [x] auto complete
-- [x] also store error into file
-- [x] Buildin command Completion
-- [x] multicommand pipeline
-- [x] command Navigation
+|command|command|command|
+|---------|------|--|
+|cd |Change current working directory|pwd |
+|Print current working directory| exit | Exit the shell|
+|history | Show command history|clear |
+|Clear the terminal screen|ls -l|cat file name|
+|echo "linux" | wc|execute any program (ex.nvim.)|
+|auto complete|also store error into file|Buildin command Completion|
+|multicommand pipeline|command Navigation||
 
 - [ ] path autocompletion
 - [ ] alias
