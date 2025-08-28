@@ -12,6 +12,13 @@ fi
 # Move into build directory
 cd $build_name
 
+# check readline exists or not
+if [[ ! -d /usr/include ]];
+then
+    sudo apt install libreadline-dev
+
+fi
+
 # Run cmake to generate Makefiles
 cmake ..
 
