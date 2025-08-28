@@ -13,7 +13,7 @@ fi
 cd $build_name
 
 # check readline exists or not
-if [[ ! -d /usr/include ]];
+if [[ ! -d /usr/include/readline ]];
 then
     sudo apt install libreadline-dev
 
