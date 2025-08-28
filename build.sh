@@ -21,11 +21,11 @@ fi
 
 # Run cmake to generate Makefiles
 cmake ..
-
 make
 
 # Run the program (optional, adjust executable name)
 if [[ -f "./own_shell" ]]; then
+    clear;
     echo "Running program..."
     ./own_shell
 else
