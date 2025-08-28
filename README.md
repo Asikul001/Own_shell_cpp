@@ -31,6 +31,14 @@
 
 ## ⚡ Execution
 
+``` bash
+git clone https://github.com/Asikul001/Own_shell_cpp.git
+cd Own_shell_cpp
+./build.sh
+```
+## ⚠️ Disclaimer
+- ⚠️ In your system if readline library not installed then you can install the readline library manually.
+- Or in build.sh contain a command that install the library autometically but it ask your system password because for sudo perform.
 
 ## 📬 Feedback & Suggestions
 
