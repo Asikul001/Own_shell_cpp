@@ -2,7 +2,7 @@
 .vscode/
 
 #others
-build/
+BUILD/
 
 # Git files
 .git/
