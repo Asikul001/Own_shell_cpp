@@ -1,0 +1,3 @@
+/home/asikul/code craft/own_shell/BUILD/CMakeFiles/own_shell.dir
+/home/asikul/code craft/own_shell/BUILD/CMakeFiles/edit_cache.dir
+/home/asikul/code craft/own_shell/BUILD/CMakeFiles/rebuild_cache.dir
