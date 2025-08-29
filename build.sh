@@ -16,7 +16,6 @@ cd $build_name
 if [[ ! -d /usr/include/readline ]];
 then
     sudo apt install libreadline-dev
-
 fi
 
 # Run cmake to generate Makefiles
